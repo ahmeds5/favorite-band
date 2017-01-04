@@ -1,0 +1,16 @@
+.sidebar {
+  background-color: yellow;
+  height: 400px;
+  width: 30%;
+  float: right;
+}
+
+.main-content {
+  background-color: green;
+  height: 400px;
+  width: 70%;
+  float: left;
+}
+h3 {
+  margin-left: 30px;
+}
